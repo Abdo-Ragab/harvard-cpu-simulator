@@ -121,12 +121,6 @@ Compile the simulator using GCC:
 gcc main.c memory.c registers.c decoder.c alu.c pipeline.c -o simulator
 ```
 
-Or using the provided Makefile:
-
-```bash
-make
-```
-
 ---
 
 ## Running the Simulator
