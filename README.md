@@ -252,4 +252,9 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Abdelrahman Ragab
+- Abdelrahman Ragab
+- Mohamed Mahmoud
+- Mohamed Fathi
+- Omar Abdelwahab
+- Badr Elmaghraby
+- Abdelrahman Almozy
